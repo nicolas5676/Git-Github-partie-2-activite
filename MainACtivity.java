@@ -1,0 +1,25 @@
+Ceci est un fichier Java.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
